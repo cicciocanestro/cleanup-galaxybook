@@ -122,4 +122,6 @@ Feel free to submit issues and feature requests!
 
 ## 📄 License
 
-This project is provided as-is for personal use. Use at your own discretion.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**TL;DR**: You can use, modify, distribute, and even sell this software freely. Just keep the original copyright notice.
